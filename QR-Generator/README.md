@@ -1,12 +1,12 @@
 # 🎯 QR Code Generator – Python GUI
 
-A sleek and easy-to-use desktop application for generating QR codes using a custom GUI built with Python's Tkinter library.
+A sleek and easy-to-use desktop application for generating QR codes using a custom GUI built with Python's customTkinter library.
 
 ---
 
 ## 🚀 Features
 
-- 🖥️ Graphical Interface powered by Tkinter  
+- 🖥️ Graphical Interface powered by CustomTkinter  
 - 📸 Live preview of the generated QR code  
 - 🎨 High error correction and clean output  
 - 🧾 Option to save QR code as a PNG image  
