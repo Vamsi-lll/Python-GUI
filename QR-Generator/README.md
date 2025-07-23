@@ -26,12 +26,11 @@ pip install customtkinter
 🛠️ How to Run
 - Clone or download this folder
 - Install dependencies using pip
-
-
-
 - Enter a URL or text → click Generate QR → preview will appear
 - The QR code is automatically saved as qr_img.png
-🎯 Goals & Future Enhancements- Add foreground/background color customization
+
+🎯 Goals & Future Enhancements
+- Add foreground/background color customization
 - Save QR with custom filenames
 - Embed a logo inside QR
 - Convert to .exe for easy distribution
@@ -40,8 +39,10 @@ pip install customtkinter
 📸 Sample OutputSample QR
 >comming soon
 
-🤝 LicenseThis project is open-source under the MIT License.
+🤝 License
+This project is open-source under the MIT License.
 Feel free to modify, contribute, and share with credit!
 
-✨ AuthorMade with Python and coffee ☕
+✨ Author
+Made with Python and coffee ☕
 Want to contribute or suggest a feature? Open an issue or send a pull request!
